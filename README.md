@@ -1,2 +1,2 @@
 # redis-pubsub-example
-redis pubsub example by node
+redis pubsub example using node js
